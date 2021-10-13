@@ -1,0 +1,340 @@
+Detalles del servidor
+
+=============================
+
+Servidores privados VPS2
+
+Ip principal: 212.129.34.224
+Clave de root: 2mS0da1q4
+
+Ip asignada: 
+212.129.34.224
+
+Hostname: host.dotacionquest.com
+
+Acceso administrativo a WHM
+=============================
+http://212.129.34.224:2086
+Usuario: root
+Clave: 2mS0da1q4
+
+
+URL
+dotacionesquest.com.co
+
+CPANEL
+username: dotacionesquestc
+pass: y+cp@r#Hrk~(
+
+FTP
+Nombre de usuario de FTP: dotacionesquestc
+Servidor FTP: ftp.dotacionesquest.com.co
+Puerto FTPS explícito de FTP &:  21
+
+BASE DE DATOS
+db: dotacionesquestc_questdb
+user: dotacionesquestc_admidb
+pass: !e*(#d+Sikc.
+
+
+
+FTP 2
+user:devmassin
+pass: -=WD4h2.+]U*
+
+Nombre de usuario de FTP: devmassin@dotacionesquest.com.co
+Servidor FTP: ftp.dotacionesquest.com.co
+Puerto FTPS explícito de FTP &:  21
+
+
+ADMINISTRADOR
+
+dotacionesquest.com.co/adminsite/
+user:alex
+pass:alealeale
+
+CHAT
+licitaciones@quest.com.co
+pass: licitaciones12345
+
+
+=============================
+
+Servidores privados VPS2
+
+Ip principal: 212.129.34.224
+Ip asignada: 212.129.34.224
+
+Hostname: host.dotacionquest.com
+
+Acceso administrativo a WHM
+=============================
+http://212.129.34.224:2086
+
+
+
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++
+EMPLEADOS
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+http://massin.co/projects/quest/order/
+=====================================================
+Raúl Mauricio Oidor lozano
+user: rmoidor
+pass: 94323293
+
+
+Francy Milena Alzate
+user: fmalzate
+pass: 31577614
+
+
+
+JEFES
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+http://massin.co/projects/quest/boss/
+=====================================================
+
+Sistemas de Apoyo Empresarial
+user: saempresarial
+pass: asdf1234
+
+Global Service World
+user: gsworld
+pass: 1234567
+
+
+EJEMPPLO LOCAL
+user: sempresariales
+pass: 1234567
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav id="ml-menu" class="menu">
+            <button class="action action--close" aria-label="Close Menu"><span class="fa fa-times"></span></button>
+            <div class="menu__wrap">
+                <ul data-menu="main" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-1" href="#">Vegetables</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-2" href="#">Fruits</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-3" href="#">Grains</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-4" href="#">Mylk &amp; Drinks</a></li>
+                </ul>
+                <!-- Submenu 1 -->
+                <ul data-menu="submenu-1" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Stalk Vegetables</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Roots &amp; Seeds</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Cabbages</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Salad Greens</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Mushrooms</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-1-1" href="#">Sale %</a></li>
+                </ul>
+                <!-- Submenu 1-1 -->
+                <ul data-menu="submenu-1-1" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Fair Trade Roots</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Dried Veggies</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Our Brand</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Homemade</a></li>
+                </ul>
+                <!-- Submenu 2 -->
+                <ul data-menu="submenu-2" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Citrus Fruits</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Berries</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-2-1" href="#">Special Selection</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Tropical Fruits</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Melons</a></li>
+                </ul>
+                <!-- Submenu 2-1 -->
+                <ul data-menu="submenu-2-1" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Exotic Mixes</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Wild Pick</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Vitamin Boosters</a></li>
+                </ul>
+                <!-- Submenu 3 -->
+                <ul data-menu="submenu-3" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Buckwheat</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Millet</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Quinoa</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Wild Rice</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Durum Wheat</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-3-1" href="#">Promo Packs</a></li>
+                </ul>
+                <!-- Submenu 3-1 -->
+                <ul data-menu="submenu-3-1" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Starter Kit</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">The Essential 8</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Bolivian Secrets</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Flour Packs</a></li>
+                </ul>
+                <!-- Submenu 4 -->
+                <ul data-menu="submenu-4" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Grain Mylks</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Seed Mylks</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Nut Mylks</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Nutri Drinks</a></li>
+                    <li class="menu__item"><a class="menu__link" data-submenu="submenu-4-1" href="#">Selection</a></li>
+                </ul>
+                <!-- Submenu 4-1 -->
+                <ul data-menu="submenu-4-1" class="menu__level">
+                    <li class="menu__item"><a class="menu__link" href="#">Nut Mylk Packs</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Amino Acid Heaven</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Allergy Free</a></li>
+                </ul>
+            </div>
+        </nav>
+
+
+
+
+
+
+
+
+
+$navdot ="<div id='ml-menu' class='menu'>";              
+        $navdot .="<button class='action action--close' aria-label='Close Menu'><span class='fa fa-times'></span></button>";
+        $navdot .="<div class='menu__wrap'>";
+        $navdot .="<ul data-menu='main' class='menu__level'>";
+                    
+                    $prevVarGender = "";
+                    $prevVarItemKit = "";
+                    $prevVarItemCat = "";
+                    $prevVarItemSub = "";
+
+                    $layoutSMCATA = "";     
+
+                    if(is_array($userPDActiArr)){
+
+                        foreach($userPDActiArr as $smcKey){
+                            
+                            if(is_array($smcKey)){
+
+                            foreach($smcKey as $smcVal){
+                                
+                                $varItemDepto = empty($smcVal['id_depart_prod'])? "" : $smcVal['id_depart_prod'];
+                                
+                                //if(isset($deptoLevel) && $deptoLevel != ""){
+                                    if($varItemDepto == 1){
+                                        $nameItemDpto = "Masculino";      
+                                    }else if($varItemDepto == 2){
+                                        $nameItemDpto = "Femenino";      
+                                    }
+                                /*}else{
+                                    if(!empty($smcVal['tipo_kit_4user'])){
+                                        $nameItemKit = $smcVal['tipo_kit_4user'];    
+                                    }else{
+                                        $nameItemKit = "unitario";    
+                                    }    
+                                }*/
+                                
+                                if(!empty($smcVal['tipo_kit_4user'])){
+                                    $nameItemKit = $smcVal['tipo_kit_4user'];    
+                                }else{
+                                    $nameItemKit = "unitario";    
+                                } 
+                                
+                                
+
+                                $varItemCate = $smcVal['id_catego_product'];
+                                $nameItemCate = $smcVal['nome_catego_product'];
+
+                                $varItemSubCate = $smcVal['id_subcatego_producto'];
+                                $nameItemSubCate = $smcVal['nome_subcatego_producto'];
+                                
+                                //if($nameItemKit == ""){ $nameItemKit = "unitario"; }
+                                //======IMPRIME LAYOUT ITEM KIT
+                                if($prevVarItemCat != $varItemCate){
+                                    if($prevVarItemCat != ""){
+                                        $layoutSMCATA .= "</li>";//////CIERRA ITEM KIT DOTACION
+                                        $layoutSMCATA .= "</ul>";////CIERRA wrap KIT DOTACION   
+                                    }                                                                                                                   
+
+                                    //======IMPRIME LAYOUT ITEM PACK DOTACION
+                                    if($prevVarItemKit != $nameItemKit){
+
+                                        if($prevVarItemKit != ""){
+                                            $layoutSMCATA .= "</li>";//CIERRA ITEM PACK DOTACION
+                                            $layoutSMCATA .= "</ul>";//CIERRA wrap PACK DOTACION
+                                        }//CIERRA ITEM PACK DOTACION
+                                        
+                                        
+                                        //======IMPRIME LAYOUT MASCULINO FEMENINO
+                                        if($prevVarGender != $varItemDepto){
+                                            if($prevVarItemKit != ""){
+                                                $layoutSMCATA .= "</li>";//CIERRA ITEM DEPTO
+                                                $layoutSMCATA .= "</ul>";//CIERRA wrap DEPTO
+                                            }//CIERRA ITEM PACK DOTACION    
+                                        
+                                             //======IMPRIME ITEM PACK
+                                            $layoutSMCATA .= "<li class='menu__item'>";//ITEM PACK DEPTO
+                                            $layoutSMCATA .= "<a class='menu__link' data-submenu='submenu-".$varItemDepto."' href='#'><strong class='titupackdot'>".$nameItemDpto."</strong></a>";
+                                            $layoutSMCATA .= "<ul data-menu='main' class='menu__level'>";////wrap PACK DPTO                                       
+                                            $prevVarGender = $varItemDepto;
+                                        
+                                        }
+                                                                                                                                                                
+                                        //======FIN IMPRIME LAYOUT MASCULINO FEMENINO
+                                        
+                                        
+                                        //======IMPRIME ITEM PACK
+                                        $layoutSMCATA .= "<li class='menu__item'>";//ITEM PACK DOTACION             
+                                        $layoutSMCATA .= "<a class='menu__link' href='#'><strong class='titupackdot'>Kit ".$nameItemKit."</strong></a>";
+                                        $layoutSMCATA .= "<ul data-menu='submenu-".$varItemCate."' class='menu__level'>";////wrap KIT DOTACION                                        
+                                        $prevVarItemKit = $nameItemKit;
+                                    }
+                                    
+                                    //======IMPRIME ITEM KIT
+                                    $layoutSMCATA .= "<li class='menu__item'><a class='menu__link' href='#'><strong>".$nameItemCate."</strong></a>";
+                                    $layoutSMCATA .= "<ul data-menu='submenu-".$varItemCate."-".$varItemSubCate."' class='menu__level'>";//////ITEM KIT DOTACION ////////WRAP ITEM PRENDA
+                                    $prevVarItemCat = $varItemCate;
+                                }//CIERRA ITEM ITEM KIT
+                                
+                                //======IMPRIME LAYOUT ITEM PRENDA
+                                $layoutSMCATA .= "<li class='menu__item'><strong>".$nameItemSubCate."</strong></li>";////////ITEM PRENDA
+
+                            }//FIN FOREACH SITE MAP CATAGO ARR VAL
+                            }
+                        }//FIN FOREACH SITE MAP CATAGO ARR
+
+                    }//FIN IS ARRAY SITE MAP CATAGO ARR
+
+                    $layoutSMCATA .= "</li>";//////ITEM KIT DOTACION
+                    $layoutSMCATA .= "</ul>";////////WRAP ITEM PRENDA
+                    $layoutSMCATA .= "</li>";//////CIERRA ITEM KIT DOTACION                
+                    $layoutSMCATA .= "</ul>";////wrap KIT DOTACION 
+                    $layoutSMCATA .= "</li>";//////CIERRA ITEM DEPTO                
+                    $layoutSMCATA .= "</ul>";////wrap KIT DEPTO
+                    $layoutSMCATA .= "</li>";//ITEM PACK DOTACION  
+
+                    $navdot .= $layoutSMCATA;                            
+                                                                                                                       
+$navdot .="</ul>";
+$navdot .="</div><!--//wrapmenu-->";
+$navdot .="</div><!--//CATALOGO-->";

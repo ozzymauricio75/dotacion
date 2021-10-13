@@ -1,0 +1,10 @@
+[12-Nov-2016 12:51:18 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[12-Nov-2016 12:51:59 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[12-Nov-2016 12:52:11 Europe/London] PHP Fatal error:  Class 'ZipArchive' not found in /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[12-Nov-2016 13:04:49 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open templates/31docproperties.xls for reading! File does not exist, or it is not readable.' in /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Shared/OLERead.php:80
+Stack trace:
+#0 /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Reader/Excel5.php(1164): PHPExcel_Shared_OLERead->read('templates/31doc...')
+#1 /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Reader/Excel5.php(612): PHPExcel_Reader_Excel5->_loadOLE('templates/31doc...')
+#2 /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/test/31docproperties_write-xls.php(49): PHPExcel_Reader_Excel5->load('templates/31doc...')
+#3 {main}
+  thrown in /home/dotacionesquestc/public_html/admisite/appweb/lib/PHPExcel/Classes/PHPExcel/Shared/OLERead.php on line 80

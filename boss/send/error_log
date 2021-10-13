@@ -1,0 +1,38 @@
+[24-Oct-2016 16:33:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dotacionesquestc/public_html/boss/send/index.php:3) in /home/dotacionesquestc/public_html/cxconfig/global-settings.php on line 3
+[24-Oct-2016 11:33:00 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 64
+[24-Oct-2016 11:33:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323
+[24-Oct-2016 20:08:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dotacionesquestc/public_html/boss/send/index.php:3) in /home/dotacionesquestc/public_html/cxconfig/global-settings.php on line 3
+[24-Oct-2016 15:08:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/boss/send/send.php on line 124
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: codePedidoSend in /home/dotacionesquestc/public_html/boss/send/send.php on line 225
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: fechaPedidoSend in /home/dotacionesquestc/public_html/boss/send/send.php on line 230
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: cityCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 232
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: nameCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 255
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: nameCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 258
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: nitCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 262
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: nitCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 265
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: telCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 270
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: telCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 273
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: mailCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 277
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: mailCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 280
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: dirCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 285
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: dirCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 288
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: cityCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 293
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: cityCompanySend in /home/dotacionesquestc/public_html/boss/send/send.php on line 296
+[24-Oct-2016 15:08:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/boss/send/send.php on line 323
+[24-Oct-2016 15:08:30 America/Bogota] PHP Notice:  Undefined variable: codePedidoSend in /home/dotacionesquestc/public_html/boss/send/index.php on line 104
+[09-Nov-2016 16:50:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dotacionesquestc/public_html/boss/send/index.php:3) in /home/dotacionesquestc/public_html/cxconfig/global-settings.php on line 3
+[09-Nov-2016 11:50:43 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 64
+[09-Nov-2016 11:50:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323
+[30-Dec-2016 13:57:48 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 13:57:48 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 66
+[30-Dec-2016 13:57:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323
+[02-Jan-2017 17:48:00 America/Bogota] PHP Notice:  Undefined variable: maxPZAS in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[02-Jan-2017 17:48:00 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 66
+[02-Jan-2017 17:48:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323
+[20-Jan-2017 11:25:01 America/Bogota] PHP Notice:  Undefined variable: maxPZAS in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[20-Jan-2017 11:25:01 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 66
+[20-Jan-2017 11:25:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323
+[20-Jan-2017 11:25:01 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 66
+[20-Jan-2017 11:25:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323
+[20-Jan-2017 11:25:01 America/Bogota] PHP Notice:  Undefined index: id_producto in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 66
+[20-Jan-2017 11:25:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 323

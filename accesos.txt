@@ -1,0 +1,15 @@
+database: massindb 
+usuario: massin_admiuser
+pass: MCih2=CxumE2
+
+
+==================
+USUARIO DEFAULT 
+=================
+//TOMAPEDIDO
+user:  user
+pass:  seller12345
+
+//ADMINISTRADOR
+user: user
+pass: admin12345

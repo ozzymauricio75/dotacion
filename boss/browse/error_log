@@ -1,0 +1,13 @@
+[29-Dec-2016 16:23:25 America/Bogota] PHP Notice:  Undefined variable: catego_filtro_query_ in /home/dotacionesquestc/public_html/boss/browse/index.php on line 472
+[29-Dec-2016 17:24:52 America/Bogota] PHP Notice:  Undefined variable: nomeCategoProd in /home/dotacionesquestc/public_html/boss/browse/index.php on line 355
+[29-Dec-2016 17:30:40 America/Bogota] PHP Notice:  Undefined variable: nomeCategoProd in /home/dotacionesquestc/public_html/boss/browse/index.php on line 355
+[29-Dec-2016 17:33:43 America/Bogota] PHP Notice:  Undefined index: nome_catego_product in /home/dotacionesquestc/public_html/boss/browse/index.php on line 70
+[29-Dec-2016 17:33:43 America/Bogota] PHP Notice:  Undefined index: descri_catego_prod in /home/dotacionesquestc/public_html/boss/browse/index.php on line 71
+[29-Dec-2016 17:37:15 America/Bogota] PHP Fatal error:  Call to undefined function categoSelectQuery() in /home/dotacionesquestc/public_html/boss/browse/index.php on line 71
+[29-Dec-2016 17:52:32 America/Bogota] PHP Notice:  Undefined variable: printLev2Acti_nome in /home/dotacionesquestc/public_html/boss/browse/index.php on line 367
+[29-Dec-2016 17:52:32 America/Bogota] PHP Notice:  Undefined variable: printLev3Acti_nome in /home/dotacionesquestc/public_html/boss/browse/index.php on line 368
+[29-Dec-2016 17:55:54 America/Bogota] PHP Notice:  Undefined variable: printLev2Acti_nome in /home/dotacionesquestc/public_html/boss/browse/index.php on line 367
+[29-Dec-2016 17:57:19 America/Bogota] PHP Notice:  Undefined variable: printLev2Acti_nome in /home/dotacionesquestc/public_html/boss/browse/index.php on line 367
+[02-Jan-2017 09:33:14 America/Bogota] PHP Notice:  Undefined index: tipo_kit_4user in /home/dotacionesquestc/public_html/boss/browse/index.php on line 431
+[02-Jan-2017 11:15:19 America/Bogota] PHP Notice:  Undefined variable: nameTalla in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 410
+[20-Jan-2017 10:39:51 America/Bogota] PHP Notice:  Undefined variable: nameTalla in /home/dotacionesquestc/public_html/appweb/inc/valida-pedido-tmp-boss.php on line 410

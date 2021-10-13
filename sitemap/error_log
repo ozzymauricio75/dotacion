@@ -1,0 +1,59 @@
+[30-Dec-2016 15:21:07 America/Bogota] PHP Notice:  Undefined variable: grupoCategorias in /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php on line 232
+[30-Dec-2016 15:21:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/site-tools.php on line 329
+[30-Dec-2016 15:21:07 America/Bogota] PHP Notice:  Undefined variable: grupoKits in /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php on line 250
+[30-Dec-2016 15:21:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/site-tools.php on line 329
+[30-Dec-2016 15:21:07 America/Bogota] PHP Notice:  Undefined variable: grupoPrendas in /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php on line 580
+[30-Dec-2016 15:21:07 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND sub.id_catego_product = cat.id_catego_product ORDER BY sub.posi_sub_cate_pro' at line 1 query: SELECT cat.id_catego_product, cat.nome_catego_product, cat.tipo_kit_4user, sub.id_catego_product, sub.nome_subcatego_producto, sub.id_subcatego_producto, sub.img_subcate_prod, sub.talla_tipo_prenda, sub.tags_depatament_produsts, sub.posi_sub_cate_prod FROM categorias_productos as cat, sub_categorias_productos as sub WHERE sub.id_subcatego_producto =  AND sub.id_catego_product = cat.id_catego_product ORDER BY sub.posi_sub_cate_prod ASC' in /home/dotacionesquestc/public_html/appweb/lib/MysqliDb.php:1498
+Stack trace:
+#0 /home/dotacionesquestc/public_html/appweb/lib/MysqliDb.php(388): MysqliDb->_prepareQuery()
+#1 /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php(687): MysqliDb->rawQuery('SELECT cat.id_c...')
+#2 /home/dotac in /home/dotacionesquestc/public_html/appweb/lib/MysqliDb.php on line 1498
+[30-Dec-2016 15:23:40 America/Bogota] PHP Notice:  Undefined variable: grupoCategorias in /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php on line 232
+[30-Dec-2016 15:23:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/site-tools.php on line 329
+[30-Dec-2016 15:23:40 America/Bogota] PHP Notice:  Undefined variable: grupoKits in /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php on line 250
+[30-Dec-2016 15:23:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/dotacionesquestc/public_html/appweb/inc/site-tools.php on line 329
+[30-Dec-2016 15:23:40 America/Bogota] PHP Notice:  Undefined variable: grupoPrendas in /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php on line 580
+[30-Dec-2016 15:23:40 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND sub.id_catego_product = cat.id_catego_product ORDER BY sub.posi_sub_cate_pro' at line 1 query: SELECT cat.id_catego_product, cat.nome_catego_product, cat.tipo_kit_4user, sub.id_catego_product, sub.nome_subcatego_producto, sub.id_subcatego_producto, sub.img_subcate_prod, sub.talla_tipo_prenda, sub.tags_depatament_produsts, sub.posi_sub_cate_prod FROM categorias_productos as cat, sub_categorias_productos as sub WHERE sub.id_subcatego_producto =  AND sub.id_catego_product = cat.id_catego_product ORDER BY sub.posi_sub_cate_prod ASC' in /home/dotacionesquestc/public_html/appweb/lib/MysqliDb.php:1498
+Stack trace:
+#0 /home/dotacionesquestc/public_html/appweb/lib/MysqliDb.php(388): MysqliDb->_prepareQuery()
+#1 /home/dotacionesquestc/public_html/appweb/inc/proceso-compra.php(687): MysqliDb->rawQuery('SELECT cat.id_c...')
+#2 /home/dotac in /home/dotacionesquestc/public_html/appweb/lib/MysqliDb.php on line 1498
+[30-Dec-2016 15:24:13 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:24:13 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:24:13 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:25:45 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:25:45 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:25:45 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:36:30 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:36:30 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:36:30 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:38:09 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:38:09 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:38:09 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:44:49 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:44:49 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:44:49 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:44:55 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:44:55 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:44:55 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:46:20 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:46:20 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:46:20 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:46:25 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:46:25 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:46:25 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:47:07 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:47:07 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:47:07 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:48:22 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:48:22 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:48:22 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:48:24 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:48:24 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:48:24 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:50:39 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:50:39 America/Bogota] PHP Notice:  Undefined variable: cantPzCatego in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:50:39 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:59:27 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 3
+[30-Dec-2016 15:59:27 America/Bogota] PHP Notice:  Undefined variable: maxPZAS in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21
+[30-Dec-2016 15:59:27 America/Bogota] PHP Notice:  Undefined variable: totalPZasOrder in /home/dotacionesquestc/public_html/appweb/tmplt/order-list-tomapedido.php on line 21

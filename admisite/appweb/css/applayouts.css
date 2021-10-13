@@ -1,0 +1,395 @@
+/*------------------------------------
+PROYECTO QUEST 
+Medios Alternativos Soluciones Ineractivas - MASSIN
+*   Sistema de pedido CATALOGO DE DOTACIONES 
+*   Author: Alex Davalos
+*	Web Author: http://massin.co
+*   Date: Octubre-2016
+------------------------------------*/
+
+
+/*--------------------------------------
+
+STYLING DIAGRAMACION
+
+--------------------------------------*/
+
+
+.maxwidth-layout{ max-width:1024px; margin:0 auto;}
+
+.unlateralpadding{ padding-right: 0px; padding-left: 0px; }
+.unlateralmargin{ margin-right: 0px; margin-left: 0px; }
+
+.untopdowpadding{ padding-top: 0px; padding-bottom: 0px; }
+.untopdowlmargin{ margin-top: 0px; margin-bottom: 0px; }
+
+.no-padmarg{ margin:0px; padding:0px;}
+
+.margin-hori-xs{ margin-left:10px; margin-right:10px;}
+.margin-hori-md{ margin-left:25px; margin-right:25px;}
+.margin-hori-lg{ margin-left:40px; margin-right:40px;}
+.margin-verti-xs{ margin-top:10px; margin-bottom:10px;}
+.margin-verti-md{ margin-top:25px; margin-bottom:25px;}
+.margin-verti-lg{ margin-top:40px; margin-bottom:40px;}
+
+.padd-hori-xs{ padding-left:10px; padding-right:10px;}
+.padd-hori-md{ padding-left:25px; padding-right:25px;}
+.padd-hori-lg{ padding-left:40px; padding-right:40px;}
+.padd-verti-xs{ padding-top:10px; padding-bottom:10px;}
+.padd-verti-md{ padding-top:35px; padding-bottom:35px;}
+.padd-verti-lg{ padding-top:65px; padding-bottom:65px;}
+
+.margin-left-xs{margin-left: 10px; }
+.margin-left-md{margin-left: 30px;}
+.margin-left-lg{margin-left: 60px;}
+.margin-top-xs{margin-top: 10px;}
+.margin-top-md{margin-top: 30px;}
+.margin-top-lg{margin-top: 60px;}
+.margin-right-xs{margin-right: 10px;}
+.margin-right-md{margin-right: 30px;}
+.margin-right-lg{margin-right: 60px;}
+.margin-bottom-xs{margin-bottom: 10px;}
+.margin-bottom-md{margin-bottom: 30px;}
+.margin-bottom-lg{margin-bottom: 60px; }
+
+.padd-left-xs{padding-left: 10px;}
+.padd-left-md{padding-left: 30px;}
+.padd-left-lg{padding-left: 60px;}
+.padd-top-xs{padding-top: 10px;}
+.padd-top-md{padding-top: 30px;}
+.padd-top-lg{padding-top: 60px;}
+.padd-right-xs{padding-right: 10px;}
+.padd-right-md{padding-right: 30px;}
+.padd-right-lg{padding-right: 60px;}
+.padd-bottom-xs{padding-bottom: 10px;}
+.padd-bottom-md{padding-bottom: 30px;}
+.padd-bottom-lg{padding-bottom: 60px;}
+
+
+.box100{ display: block; width:100%; margin:1px auto; }
+.box75{ display: block; width:100%; max-width:900px; margin:1px auto; }
+.box50{ display: block; width:100%; max-width:600px; margin:1px auto; }
+.box25{ display: block; width:100%; max-width:300px; margin:1px auto; }
+
+.bg-white{
+    background-color: #fff;    
+}
+
+.bg-content-header{
+    background-color: #dee4eb;
+}
+
+.txtCapitalice{ /*primera mayuscula*/
+    text-transform: capitalize;    
+}
+.txtLoweercase{ /*minusculas*/
+    text-transform:lowercase;    
+}
+.txtUppercase{ /*mayusculas*/
+    text-transform:uppercase;
+}
+
+
+/*
+//*******************
+//TIENDA SECTION
+//*******************
+*/
+
+.labelitemlyt{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 90px;
+}
+
+.ch-backbtn{
+    display: table;
+    position: relative;
+    margin: 3px 0px 0px 0px;
+    color: #3c8dbc;
+}
+.ch-backbtn:hover,
+.ch-backbtn:focus{
+    color: #222d32;
+    text-decoration: none;    
+}
+
+.ch-backbtn i{ margin-right:10px; font-size: 18px; }
+
+.wrapdivsection{
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.linesection{
+    display: block;
+    width: 97%;
+    height: 1px;
+    margin: 0px auto;
+    background-color: #d9d9d9;
+    
+}
+
+.colorFeactureBadge:hover{
+    cursor:default;
+    /*float:right; 
+    display:inline-block; 
+    width:26px; 
+    height:26px; 
+    margin: 0 auto; 
+    -webkit-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.35);
+    -moz-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.35);
+    box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.35);*/
+}
+
+/*
+ *BOTTON NAV
+ *
+*/
+/*.content .navbar-fixed-bottom-custom {
+    position: fixed;
+    top: auto;
+    bottom: 0px;
+    right: 0;
+    left: 0px;
+    z-index: 1030;
+}
+
+@media (min-width:768px){
+    .content .navbar-fixed-bottom-custom {
+        position: fixed;
+        top: auto;
+        bottom: 0px;
+        right: 0;
+        left: 230px;
+        z-index: 1030;
+    }
+}*/
+
+.main-footer {
+  background: transparent;
+  padding: 0px;
+  color:inherit;
+  border-top: 0px solid #d2d6de;
+}
+
+.links-mm-bar-justified{
+    display: table;
+    width: 100%;
+    height: auto;
+    table-layout: fixed;
+    border-collapse: separate;		
+}	
+.links-mm-bar-justified > a {
+    position: none;
+    float: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left:0px;
+    padding-right:0px;
+    line-height: 20px;
+    margin-left:0px;
+    margin-right:0px;
+    
+    border-left: #3D454D solid 1px;
+    border-right: #1d2126 solid 1px;
+
+    text-align:center;
+    display: table-cell;
+    float: none;
+    width: 1%;
+    height: auto;
+    
+    color: #fff;
+}	
+.links-mm-bar-justified > a > i{        
+    font-size:1.289223em;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.links-mm-bar-justified > a > span{
+    font-size: 1.2681432em;
+    text-align:center;
+    line-height: 1;
+    
+}
+
+.links-mm-bar-justified a.activade,
+.links-mm-bar-justified > a:hover/*,
+.links-mm-bar-justified > a:focus*/{
+    background-color: #6b7a89/*#3c8dbc  -  #3D454D*/;
+    
+}
+/*.links-mm-bar-justified > a:focus{ background-color: transparent; }*/
+
+@media (max-width: 479px) { 
+    .links-mm-bar-justified > a {        
+        padding-top: 6px;
+        padding-bottom: 3px;        
+        line-height: 1;        
+    }
+    
+    .links-mm-bar-justified > a > i{        
+        font-size:1.1289223em;
+        display: block;
+        margin-bottom: 2px;
+    }
+
+    .links-mm-bar-justified > a > span{
+        font-size: 0.92681432em;
+        
+    }
+}
+
+
+.main-footer > .alert {
+  padding: 15px 40px;
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+  border-radius: 0px;
+}
+
+
+//*******************
+//LOADING EVENT
+//*******************
+*/
+.ok, .wrong, .loader{        
+    position: relative;
+    display: block;
+    margin-top: 5px;        
+    z-index: 5;
+    text-align: center;
+}
+.loader img{ height: 40px; width: auto; margin: 0px auto;}
+
+.okrow, .wrongrow, .loaderrow{   
+    
+    margin-top: -30px;
+    float: right;
+    margin-right: 6px;
+    z-index: 9;
+}
+
+.okbtn, .wrongbtn, .loaderbtn{
+    display: inline-block;
+    float: right;
+    margin-top: 0px;    
+    margin-right: 6px;
+    z-index: 9;
+}
+
+  
+a.cancelOrder {
+    position: absolute;
+    
+    right: 18px;
+    top: 3px;
+        
+    float: right;
+    display: block;        
+    
+    padding: 0px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,.38);
+    
+    text-align: center;
+    color: #fff;
+    
+  
+}
+a.cancelOrder:hover {
+    color: #fff;
+    background-color: rgba(0,0,0,.78);
+}
+
+a.cancelOrder > .glyphicon,
+a.cancelOrder > .fa,
+a.cancelOrder > .ion {
+    
+    font-size: 1.20em;
+    padding-top: 8px;
+}
+
+/*.wrapnewref{
+    
+    max-height: calc(100% - 3em);
+    overflow-y: auto;
+}*/
+
+/*--------------------------------------
+
+LOGIN FORM
+
+---------------------------------------*/
+
+.wraplogin{
+    padding-bottom: 45px;
+}
+.wrapform{
+    background-color: #F4F4F4;
+    margin: 0 auto;
+    width: 95%;
+    max-width: 480px;
+}
+
+.btnform{    
+    border-radius: 25px;
+    background-color: #FB6147;    
+    color:#fff;
+}
+
+.btnform:hover,
+.btnform:focus{        
+    background-color: #EA3F28;    
+    color: #fff;
+}
+
+.wraplogin .cbp-ig-icon i{ font-size: 12em; color: #F4F4F4;}
+.wraplogin .cbp-ig-title { font-size: 1.65454em; color: #F4F4F4;} 
+
+@media screen and (max-width: 480px) { 
+    .wraplogin .cbp-ig-icon i{ font-size: 6em;}
+}
+
+
+.btn-link-inverse {
+  font-weight: normal;
+  color: #c0d6e3;
+  border-radius: 0;
+}
+.btn-link-inverse,
+.btn-link-inverse:active,
+.btn-link-inverse.active,
+.btn-link-inverse[disabled],
+fieldset[disabled] .btn-link-inverse {
+  background-color: transparent;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.btn-link-inverse,
+.btn-link-inverse:hover,
+.btn-link-inverse:focus,
+.btn-link-inverse:active {
+  border-color: transparent;
+}
+.btn-link-inverse:hover,
+.btn-link-inverse:focus {
+  color: #FB6147;
+  text-decoration: none;
+  background-color: transparent;
+}
+.btn-link-inverse[disabled]:hover,
+fieldset[disabled] .btn-link-inverse:hover,
+.btn-link-inverse[disabled]:focus,
+fieldset[disabled] .btn-link-inverse:focus {
+  color: #FB6147;
+  text-decoration: none;
+}
